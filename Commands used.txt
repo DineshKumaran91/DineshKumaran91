@@ -1,0 +1,2 @@
+ -> created jenkins home directory
+ -> docker-up -it up -d
